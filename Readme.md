@@ -4,10 +4,10 @@ If you made it here, you most likely applied for the role of a junior typescript
 Now here is a task for you to crack
 
 
- We use [adonisjs](adonisjs) here at ignite.dev
+ We use the [adonisjs](adonisjs) framework here at ignite.dev
 
 ## Task description
-You'll be building a single backend api endpoint that leverages uses [github app ](https://docs.github.com/en/rest/apps?apiVersion=2022-11-28) to get private repositories from your github repository.
+You'll be building a single backend api endpoint that uses [github app ](https://docs.github.com/en/rest/apps?apiVersion=2022-11-28) to get the list of all private repositories from your github account.
 
 To complete this task 
 1. You are expected to create and configure a github app
