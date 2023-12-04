@@ -1,5 +1,5 @@
 # Welcome Rockstar 😎 !
-If you made it here, you most likely applied for the role of a junior typescript engineer [ignite.dev](ignite.dev)
+If you made it here, you most likely applied for the role of a junior typescript engineer at [ignite.dev](ignite.dev)
 
 Now here is a task for you to crack
 
